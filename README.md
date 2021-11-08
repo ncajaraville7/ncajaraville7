@@ -17,8 +17,6 @@
 <li>SASS</li>
 <li>BOOTSTRAP</li>
 <li>JAVASCRIPT</li>
-<li>REACT</li>
-<li>FIREBASE</li>
 <li>GIT</li>
 <li>GITHUB</li>
 </ul>
