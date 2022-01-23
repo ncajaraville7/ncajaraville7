@@ -17,6 +17,7 @@
 <li>SASS</li>
 <li>BOOTSTRAP</li>
 <li>JAVASCRIPT</li>
+ <li>REACT JS</li>
 <li>GIT</li>
 <li>GITHUB</li>
 </ul>
