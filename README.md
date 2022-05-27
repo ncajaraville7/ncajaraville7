@@ -3,7 +3,6 @@
 <h2>About Me</h2>
 
 <ul>
-<li>💻 I’m currently learning Web development.</li>
 <li>📫 How to reach me: nicolas.cajaraville7@gmail.com.</li>
 <li>📚I love learning new things and exploring new technologies.</li>
 <li>👀I'm looking for a job as a Front-End Developer.</li>
