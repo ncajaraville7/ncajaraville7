@@ -16,9 +16,12 @@
 <li>SASS</li>
 <li>BOOTSTRAP</li>
 <li>JAVASCRIPT</li>
- <li>REACT JS</li>
+<li>REACT JS</li>
+<li>NODE JS</li>
 <li>GIT</li>
 <li>GITHUB</li>
+<li>JAVA</li>
+<li>SQL SERVER</li>
 </ul>
 
  
